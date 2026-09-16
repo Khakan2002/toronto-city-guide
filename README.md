@@ -26,4 +26,4 @@ HTML5, CSS3 (Grid, Flexbox), JavaScript
 
 ## Notes
 
-Built as part of university coursework. Image assets are not included in this repo.
+Built as part of university coursework. 
