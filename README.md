@@ -22,7 +22,7 @@ A 5-page responsive travel guide website for Toronto — home, attractions, food
 
 ## Tech used
 
-HTML5, CSS3 (Grid, Flexbox), vanilla JavaScript
+HTML5, CSS3 (Grid, Flexbox), JavaScript
 
 ## Notes
 
