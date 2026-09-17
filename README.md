@@ -1,4 +1,5 @@
 # Toronto City Guide
+🔗 **[View live site] https://khakan2002.github.io/toronto-city-guide/ )**
 
 A 5-page responsive travel guide website for Toronto — home, attractions, food & dining, transport, and contact — built with vanilla HTML, CSS and JavaScript.
 
